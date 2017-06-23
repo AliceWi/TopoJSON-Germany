@@ -2,14 +2,14 @@
 This TopoJSON file of Germany contains its states, counties, important places and furthermore the districts of Berlin in separate objects. 
 
 * counties and Berlin: 
-  * id: five digit Community Identification Number, if there are only four digits, first digit is 0
-  * properties: name, state, kfz (=license tag), type: 
+  * id: five digit Community Identification Number
+  * properties: name, state, kfz (=license tag), districtType: 
     * Landkreis (=rural district)
     * Kreis (=rural district), only in Schleswig-Holstein and Nordrhein-Westfahlen 
     * kreisfreie Stadt (=urban district)
     * Stadtkreis (=urban district), only in Baden-Württemberg    
 * states:
-  * id: first two digits of the Community Identification Number, including the 0
+  * id: first two digits of the Community Identification Number
   * properties: name, nameEN (=english name, is null if there is none), short (=abbreviation)
 * places:
   * id: name
