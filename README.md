@@ -5,7 +5,7 @@ This TopoJSON file of Germany contains its states, counties, important places an
   * id: five digit Community Identification Number
   * properties: name, state, kfz (=license tag), districtType: 
     * Landkreis (=rural district)
-    * Kreis (=rural district), only in Schleswig-Holstein and Nordrhein-Westfahlen 
+    * Kreis (=rural district), only in Schleswig-Holstein and Nordrhein-Westfalen 
     * kreisfreie Stadt (=urban district)
     * Stadtkreis (=urban district), only in Baden-Württemberg    
 * states:
