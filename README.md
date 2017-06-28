@@ -19,7 +19,7 @@ This TopoJSON file of Germany contains its states, counties, important places an
 ## Note
 In the counties the Bodensee is not included.
 
-The shape files I got from [the GADM database](www.gadm.org). The districts of Berlin I draw by myself.
+The shape files I got from [the GADM database](https://www.gadm.org). The districts of Berlin I draw by myself.
 
 Do you want to create your own topoJSON files? These are two usefull tutorials and two great webtools.
 * [Command-line-cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c) by Mike Bostok
